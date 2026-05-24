@@ -1,1 +1,2 @@
 # NetflixEDA
+#Basit bir EDA .
